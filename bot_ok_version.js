@@ -1,15 +1,16 @@
 // ==UserScript==
 // @name         Cityline HK Ticket Assistant
 // @namespace    http://tampermonkey.net/
-// @version      2.3
+// @version      2.4
 // @description  Cityline HK helper
 // @match        https://*.cityline.com/*
 // @grant        none
 // @license      MIT
-// @tag          Test
-// @author       hkcitytbot
+// @author       hkcitytbothttps://t.me/+9plWrQDSwQMxMDA1
 // @run-at document-idle
-// @
+// @downloadURL https://github.com/hkcitytbot/hkcitybot/raw/Master/bot_ok_version.js
+// @updateURL https://github.com/hkcitytbot/hkcitybot/raw/Master/bot_ok_version.js
+// @license Copyright hkcitytbot
 // ==/UserScript==
 
 (function() {
