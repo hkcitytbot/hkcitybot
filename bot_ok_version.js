@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Cityline HK Ticket Assistant
 // @namespace    http://tampermonkey.net/
-// @version      2.4
+// @version      2.5
 // @description  Cityline HK helper
 // @match        https://*.cityline.com/*
 // @grant        none
